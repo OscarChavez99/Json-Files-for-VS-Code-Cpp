@@ -2,7 +2,7 @@
     "version": "0.2.0",
     "configurations": [        
         {
-            "name": "C/C++: g++.exe Compilar y depurar el archivo activo",//Write any name you want:)
+            "name": "C/C++: g++.exe Compilar y depurar el archivo activo",//Write anything you want here:)
             "type": "cppdbg",
             "request": "launch",
             "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
