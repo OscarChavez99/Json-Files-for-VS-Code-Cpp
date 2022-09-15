@@ -2,7 +2,7 @@
     "version": "0.2.0",
     "configurations": [        
         {
-            "name": "C/C++: g++.exe Compilar y depurar el archivo activo",
+            "name": "C/C++: g++.exe Compilar y depurar el archivo activo",//Write any name you want:)
             "type": "cppdbg",
             "request": "launch",
             "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
@@ -12,7 +12,7 @@
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
-            "miDebuggerPath": "C:\\msys64\\mingw64\\bin\\gdb.exe",
+            "miDebuggerPath": "C:\\msys64\\mingw64\\bin\\gdb.exe",//Use your gdb.exe path here
             "setupCommands": [
                 {
                     "description": "Habilitar la impresión con sangría para gdb",
@@ -28,8 +28,8 @@
             "preLaunchTask": "C/C++: g++.exe compilar archivo activo"
         },
         {
-            "name": "C/C++ Runner: Debug Session",
-            "type": "cppdbg",
+            "name": "C/C++ Runner: Debug Session",//Download "Code Runner" extension by "Jun Han" to use this
+            "type": "cppdbg",                     
             "request": "launch",
             "args": [],
             "stopAtEntry": false,
