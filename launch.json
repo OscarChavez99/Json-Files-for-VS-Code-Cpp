@@ -28,7 +28,7 @@
             "preLaunchTask": "C/C++: g++.exe compilar archivo activo"
         },
         {
-            "name": "C/C++ Runner: Debug Session",//Download "Code Runner" extension by "Jun Han" to use this
+            "name": "C/C++ Runner: Debug Session",//Download "C/C++ Runner" extension by "franneck94" to use this
             "type": "cppdbg",                     
             "request": "launch",
             "args": [],
