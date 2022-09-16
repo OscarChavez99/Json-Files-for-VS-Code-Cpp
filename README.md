@@ -5,5 +5,5 @@ Use this files to compile a C++ project in VS Code. <br>
 1-Copy the files to the path C:\Users\(YourCompuerNameHere)\AppData\Roaming\Code\User <br>
 (..Code/User directory it's automatically created in the VS Code installation) <br><br> 
 If you don't have any C/C++ compiler: <br>
-  -This is the compiler i downloaded: https://www.msys2.org/ <br>
-  -This is the debugger i downloaded: https://packages.msys2.org/package/mingw-w64-x86_64-gdb
+  -This is the compiler i downloaded (g++): https://www.msys2.org/ <br>
+  -This is the debugger i downloaded (gdb): https://packages.msys2.org/package/mingw-w64-x86_64-gdb
